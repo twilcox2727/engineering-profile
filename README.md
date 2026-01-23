@@ -18,4 +18,4 @@ I'm a **New App Support Engineer** wanting to get into development project works
 I am currently enrolled into multiple courses within CodeAcademy and developing important skills.
 
 ## 🤝 Let's connect!
-I am open to collaboration, feedback, and opportunities to learn - especially where support and development intersect.
+I am open to collaboration, feedback, and opportunities to learn - especially where support and development intersect..
