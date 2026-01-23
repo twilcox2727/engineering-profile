@@ -23,4 +23,4 @@ I'm always open to collaboration, mentorship, and feedback. If you share an inte
 
 ---
 
-*Feel free to reach out or connect with me on [LinkedIn](www.linkedin.com/in/vance-thomas-wilcox-1967b9383) (add your profile link) or via email thomas.wilcox@acima.com. Let's build something great together!*
+*Feel free to reach out or connect with me on [LinkedIn](www.linkedin.com/in/vance-thomas-wilcox-1967b9383) or via email thomas.wilcox@acima.com. Let's build something great together!*
