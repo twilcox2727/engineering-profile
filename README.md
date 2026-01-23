@@ -1,7 +1,7 @@
 # Thomas Wilcox
 
 ## About Me
-I'm a **App Support Engineer** with a passion for technology and a strong desire to transition into software development. In my current role, I specialize in debugging, incident resolution, and collaborative problem-solving to ensure seamless application performance.
+I'm an **App Support Engineer** with a passion for technology and a strong desire to transition into software development. In my current role, I specialize in debugging, incident resolution, and collaborative problem-solving to ensure seamless application performance.
 
 ## 🛠️ Current Focus
 - Application support and production troubleshooting
