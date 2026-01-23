@@ -1,21 +1,26 @@
 # Thomas Wilcox
 
 ## About Me
-I'm a **New App Support Engineer** wanting to get into development project works. My current role is to support in debugging and solution collaboration. 
+I'm a **App Support Engineer** with a passion for technology and a strong desire to transition into software development. In my current role, I specialize in debugging, incident resolution, and collaborative problem-solving to ensure seamless application performance.
 
 ## 🛠️ Current Focus
-- App Support and Production trouble shooting.
-- Incident triage and root cause analysis.
-- Learning development workflows and best practices.
+- Application support and production troubleshooting
+- Incident triage and root cause analysis
+- Learning modern development workflows and best practices
+- Building foundational coding skills
 
 ## 🚀 Goals
-- Grow into a development role.
-- Master triage skills.
-- Write in complex language models.
-- Advance in AI development.
+- Transition into a software development role
+- Master advanced triage and debugging techniques
+- Work with and contribute to complex language models
+- Advance my expertise in AI and machine learning development
 
 ## 📚 Always Learning
-I am currently enrolled into multiple courses within CodeAcademy and developing important skills.
+I'm committed to continuous growth and am currently enrolled in multiple Codecademy courses, expanding my knowledge in programming, software engineering, and emerging technologies.
 
-## 🤝 Let's connect!
-I am open to collaboration, feedback, and opportunities to learn - especially where support and development intersect.
+## 🤝 Let's Connect!
+I'm always open to collaboration, mentorship, and feedback. If you share an interest in application support, development, or AI, I'd love to connect and learn together!
+
+---
+
+*Feel free to reach out or connect with me on [LinkedIn](www.linkedin.com/in/vance-thomas-wilcox-1967b9383) (add your profile link) or via email thomas.wilcox@acima.com. Let's build something great together!*
